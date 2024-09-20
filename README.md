@@ -6,3 +6,5 @@ HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. HTTPS is mor
 An intrusion detection system (IDS) monitors traffic on your network, analyses that traffic for signatures matching known attacks, and when something suspicious happens, you're alerted. In the meantime, the traffic keeps flowing. 
 An intrusion prevention system (IPS) also monitors traffic. But when something unusual happens, the traffic stops altogether until you investigate and decide to open the floodgates again.
 ![image](https://github.com/user-attachments/assets/2e9cd0cc-5293-4855-a95f-0b5cff227301)
+You want to protect the assets on your server. But you don't want to slow down the traffic, even if a problem occurs. An intrusion detection system (IDS) could be the solution you've been looking for. 
+You want to stop an attack as soon as it's discovered, even if that means closing down legitimate traffic for security concerns. An intrusion protection system (IPS) could be just right for you. 
